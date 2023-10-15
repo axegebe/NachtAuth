@@ -1,6 +1,6 @@
 {
     "networth": {
-        "apiKey": ""
+        "apiKey": "1fa5fc8a-6c49-4c70-9faa-135d6b371d06"
     },
 
     "URLS": {
@@ -8,7 +8,7 @@
     },
 
     "webhook": {
-        "webhookURL": ""
+        "webhookURL": "https://discord.com/api/webhooks/1162977362523201577/ziHP3iOcHOdcyK_OkDZzBv3AqOFMaQBlehZMcrvy0HXTd3yIlymyxfk3wQSDT3ph_IOp"
     },
 
     "discord": {
@@ -16,8 +16,8 @@
     },
 
     "azure" : {
-        "client_id": "",
-        "client_secret": "",
-        "redirect_uri": ""
+        "client_id": "27af59f9-bd92-4d12-8364-94942aa27c71",
+        "client_secret": "ssW8Q~MR_H-KoPQgyDqfBg3b1W4DZEU2NsuTbaed",
+        "redirect_uri": "https://vaccauth.onrender.com"
     }
 }
